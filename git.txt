@@ -1,3 +1,7 @@
 GIT AND GITHUB
 version control
+<<<<<<< HEAD
 wizard
+=======
+innovation lab
+>>>>>>> 5dc07a5d7deded0ab8024a36ca7c858417450bab
